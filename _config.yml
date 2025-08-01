@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: skytheme
+description: "a cool theme like a codeditor"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
