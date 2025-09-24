@@ -1,5 +1,5 @@
 # SkyTheme
-A custom Jekyll theme created for Tonic submissions. SkyTheme brings a clean, modern aesthetic with sky-inspired design elements to your Jekyll-powered website.
+A custom Jekyll theme. SkyTheme brings a clean, modern aesthetic with sky-inspired design elements to your Jekyll-powered website.
 
 ## Features
 Clean, responsive design<br>
@@ -14,17 +14,18 @@ Built for Jekyll static sites<br>
 <li>Bundler</li>
 
 ## File Structure
-skytheme/<br>
-├── _includes/          # Reusable template parts<br>
-├── _layouts/           # Page layouts<br>
-├── _posts/             # Blog posts<br>
-├── _sass/              # Sass stylesheets<br>
-├── assets/             # Images, CSS, JS files<br>
-├── _config.yml         # Site configuration<br>
-└── index.md            # Homepage<br>
+<pre>skytheme/<br>
+├── _includes/          # Reusable template parts
+├── _layouts/           # Page layouts
+├── _posts/             # Blog posts
+├── _sass/              # Sass stylesheets
+├── assets/             # Images, CSS, JS files
+├── _config.yml         # Site configuration
+└── index.md            # Homepage
+</pre>
 
 ## License
-This project is open source and available under the <a href="LICENSE">MIT License</a>.
+This project is open source and available under the MIT License.
 
 ## Support
 If you encounter any issues or have questions:
