@@ -1,10 +1,35 @@
-# Tonic Starter
+# SkyTheme
+A custom Jekyll theme created for Tonic submissions. SkyTheme brings a clean, modern aesthetic with sky-inspired design elements to your Jekyll-powered website.
 
-A sample [Jekyll](https://jekyllrb.com) theme designed to be a starting point for all [Tonic](https://github.com/hackclub/tonic) submissions.
+## Features
+Clean, responsive design<br>
+Sky-inspired color palette and aesthetics<br>
+Mobile-friendly layout<br>
+Easy customization<br>
+Built for Jekyll static sites<br>
 
-This template is intentionally left incomplete; users should play through Tonic to learn how to make a full-featured theme.
+## Prerequisites
+<li>Ruby (version 2.7 or higher)</li>
+<li>Jekyll</li>
+<li>Bundler</li>
 
-# Usage
-1. At the top of this page, select **Use this template** &gt; **Create a new repository** to clone the template to your account.
-2. Create a codespace from the created repository (for beginners) or use `git clone` (for advanced users) to start pushing commits.
-3. Run `gem install jekyll`, then `jekyll serve` to see the template in action.
+## File Structure
+skytheme/<br>
+├── _includes/          # Reusable template parts<br>
+├── _layouts/           # Page layouts<br>
+├── _posts/             # Blog posts<br>
+├── _sass/              # Sass stylesheets<br>
+├── assets/             # Images, CSS, JS files<br>
+├── _config.yml         # Site configuration<br>
+└── index.md            # Homepage<br>
+
+## License
+This project is open source and available under the <a href="LICENSE">MIT License</a>.
+
+## Support
+If you encounter any issues or have questions:
+<ul>
+<li>Check the <a href="https://jekyllrb.com/docs/">Jekyll documentation</a></li>
+<li>Review the <a href="https://github.com/hackclub/tonic">Tonic resources</a></li>
+<li>Open an issue in this repository</li>
+</ul>
